@@ -1,0 +1,2 @@
+# myps
+windows script
